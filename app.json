@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0aa0088e-f8cb-478a-82aa-b47e09c8ee23"
+      }
+    },
+    "owner": "franciscokahil"
   }
 }
